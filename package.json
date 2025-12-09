@@ -1,6 +1,7 @@
 {
   "name": "rc-sdk-pilot",
   "version": "1.0.0",
+  "type": "module",
   "description": "An autonomous AI Agent runtime that pilots the RingCentral SDK with type-safe grounding and self-healing authentication.",
   "scripts": {
     "start": "pnpm --filter pilot start"

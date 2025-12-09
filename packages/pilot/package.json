@@ -1,7 +1,11 @@
 {
   "name": "pilot",
   "version": "0.1.0",
+  "type": "module",
   "scripts": {
     "start": "tsx src/index.ts"
+  },
+  "dependencies": {
+    "node-llama-cpp": "^3.14.4"
   }
 }
