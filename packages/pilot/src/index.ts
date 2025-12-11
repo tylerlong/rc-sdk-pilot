@@ -37,7 +37,7 @@ async function main() {
     console.log("✅ 引擎加载成功！准备提问...");
     console.log("-----------------------------------");
 
-    const userMessage = "煤气灯效应是什么?";
+    const userMessage = "What's seven plus eight?";
     console.log("User:", userMessage);
 
     // 6. 获取回答
