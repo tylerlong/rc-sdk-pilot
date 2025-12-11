@@ -39,8 +39,8 @@ yarn.
 pnpm install
 ```
 
-Download model from
-https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/qwen2.5-1.5b-instruct-q4_k_m.gguf?download=true
+Download model from https://huggingface.co/Qwen/Qwen3-1.7B-GGUF/tree/main
+(download the huge gguf file)
 
 Put the downloaded model into packages/pilot/models
 
