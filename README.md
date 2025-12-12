@@ -7,7 +7,7 @@ interface for the RingCentral platform.
 
 It features a Hybrid Edge Architecture:
 
-- The "Brain" (Local): An embedded LLM inference engine (Qwen 2.5) runs entirely
+- The "Brain" (Local): An embedded LLM inference engine (Qwen 3.0) runs entirely
   on the user's machine to process natural language and generate logic.
 
 - The "Hands" (Cloud): The agent executes these logical commands via the
